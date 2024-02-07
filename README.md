@@ -12,10 +12,11 @@ Course@IIT Goa
 
 I am currently in first year (second semester) enrolled in a branch called as **Computer Science and Engineering** in IIT Goa.
 There were many courses which we studied some of them were
--**CS101** which was instructed by **Mr. Clint P. George**.
--**MA101** which was taught by **Mr. Sandipan de**.
--**PH101** which was taught by **Mr. Santosh Kumar Das**.
--**CH101** , **CH102** and  **CH103** all of which were taught by **Mr. Raja Mitra**.
+
+- **CS101** which was instructed by **Mr. Clint P. George**.
+- **MA101** which was taught by **Mr. Sandipan de**.
+- **PH101** which was taught by **Mr. Santosh Kumar Das**.
+- **CH101** , **CH102** and  **CH103** all of which were taught by **Mr. Raja Mitra**.
 
 
 
