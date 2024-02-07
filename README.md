@@ -15,9 +15,18 @@ There were many courses which we studied in first semester some of them were
 - **CS101** which was instructed by *Mr. Clint P. George*.
 - **MA101** which was taught by *Mr. Sandipan de*.
 - **PH101** which was taught by *Mr. Santosh Kumar Das*.
+- **ELPP** which was taught by *Dr. Neer*.
 - **CH101** , **CH102** and  **CH103** all of which were taught by *Mr. Raja Mitra*.
 
+For the second semester there are courses as
+1. **CS102** is a course which will be instructed by *Mr. Clint P. George*.
+2. **MA102** is a course which will be instructed by *Mr. Kalpesh Haria*. 
+3. **EE101** is a course which will be instructed by *Dr. Apeksha Madhukar*.
+4. **PH102** is a course which will be instructed by *Mr. Clint P. George*.
 
+# Hobbies , interests 
+I love to play sports like **Football**, **Badminton** and **Volleyball**. I was also fond of playing *PC games* in my childhood. Watching **Movies and Web Series** was also one of my favorite hobbies which i made since i was in 7th. 
+Nowadays i only play Badminton and rest my time is usually spent on ***learning*** and ***studying***.
 
 
 ##
