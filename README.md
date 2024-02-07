@@ -10,7 +10,7 @@ I did my first to tenth from a nearby school named **Convent Higher Secondary Sc
 # Course@IIT Goa
 
 I am currently in first year (second semester) enrolled in a branch called as **Computer Science and Engineering** in IIT Goa.
-There were many courses which we studied in first semester some of them were
+There were many courses which we studied in **first semester** some of them were
 
 - **CS101** which was a Computer Science course instructed by *Mr. Clint P. George*.
 - **MA101** A Mathematics course taught by *Mr. Sandipan de*.
@@ -18,7 +18,7 @@ There were many courses which we studied in first semester some of them were
 - **ELPP** Professional English course which was taught by *Dr. Neeraja Raghavan*.
 - **CH101** , **CH102** and  **CH103** Chemistry courses all of which were taught by *Dr. Raja Mitra*.
 
-For the second semester there are courses as
+For the **second semester** there are courses as
 1. **CS102** is a course which will be instructed by *Mr. Clint P. George*.
 2. **MA102** is a course which will be instructed by *Mr. Kalpesh Haria*. 
 3. **EE101** is a course which will be instructed by *Dr. Apeksha Madhukar*.
